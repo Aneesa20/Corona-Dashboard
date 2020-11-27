@@ -1,0 +1,356 @@
+,Municipalities,People with two or more chronic conditions,Use type II diabetes,Chronic disease - COPD and Asthma - Patients / Clients,Chronic disease - Heart failure - Patients / Clients,Chronic disease - Diabetes - Patients / Clients,Chronic disease - Rheumatism - Patients / Clients,Chronic disease - Cancer - Patients / Clients,municipality Name,Number
+0,Aa en Hunze,4.9,6.7,880,970,753,529,1027,'s-Gravenhage,40792
+1,Aalsmeer,4.0,5.0,1056,936,604,488,958,'s-Hertogenbosch,16723
+2,Aalten,5.6,6.0,1156,1053,682,692,939,Aa en Hunze,524
+3,Achtkarspelen,5.5,6.3,1642,1064,658,644,1181,Aalsmeer,1533
+4,Alblasserdam,4.9,6.2,1052,733,421,446,753,Aalten,1825
+5,Albrandswaard,4.1,4.9,944,843,428,520,765,Achtkarspelen,357
+6,Alkmaar,4.5,5.5,4850,3303,1988,1871,3615,Alblasserdam,1482
+7,Almelo,5.8,7.2,3556,3027,1950,1575,3359,Albrandswaard,3280
+8,Almere,3.7,5.6,7401,7257,2671,3151,7181,Alkmaar,8426
+9,Alphen aan den Rijn,4.7,4.8,5079,3976,2103,2313,3583,Almelo,3364
+10,Alphen-Chaam,4.5,5.6,363,380,243,134,332,Almere,11906
+11,Altena,4.9,5.2,2656,1816,1324,1110,1744,Alphen aan den Rijn,6214
+12,Ameland,4.1,5.0,145,95,78,115,115,Alphen-Chaam,1931
+13,Amersfoort,3.9,4.6,7437,4904,2292,2316,4753,Altena,4734
+14,Amstelveen,3.4,4.2,2969,2406,1740,1500,2610,Ameland,0
+15,Amsterdam,3.7,5.4,32638,21543,12851,11093,28998,Amersfoort,6990
+16,Apeldoorn,5.3,5.8,7300,6083,3190,2933,5758,Amstelveen,11085
+17,Appingedam,7.9,8.3,527,760,356,366,708,Amsterdam,73132
+18,Arnhem,4.4,5.4,8048,5578,2554,2766,4985,Apeldoorn,12292
+19,Assen,4.8,6.3,3454,2518,1473,1583,2494,Appingedam,165
+20,Asten,4.0,4.9,487,465,407,287,519,Arnhem,9415
+21,Baarle-Nassau,6.8,6.7,315,326,211,146,259,Assen,1530
+22,Baarn,4.3,4.7,1069,788,448,462,710,Asten,2561
+23,Barendrecht,3.9,4.8,1798,1631,718,980,1490,Baarle-Nassau,498
+24,Barneveld,4.2,4.8,2639,1763,939,838,1778,Baarn,1738
+25,Beek,5.6,6.2,737,626,429,309,624,Barendrecht,4132
+26,Beekdaelen,6.0,6.4,1647,1360,1113,753,1366,Barneveld,4065
+27,Beemster,3.5,4.9,279,282,190,174,236,Beek,1594
+28,Beesel,5.7,6.1,539,562,412,265,496,Beekdaelen,5422
+29,Berg en Dal,5.8,6.1,1664,1624,782,658,1198,Beemster,362
+30,Bergeijk,4.4,5.5,658,579,386,352,572,Beesel,1604
+31,Bergen (L.),6.1,7.5,578,555,361,293,554,Berg en Dal,6325
+32,Bergen (NH.),4.5,5.0,1004,835,727,565,878,Bergeijk,1928
+33,Bergen op Zoom,6.2,6.5,3341,2998,2036,1237,2511,Bergen (L.),748
+34,Berkelland,5.7,5.9,1606,1835,1178,990,1607,Bergen (NH.),2187
+35,Bernheze,4.8,4.9,1137,1078,801,578,880,Bergen op Zoom,3854
+36,Best,5.3,5.0,1455,1017,474,525,968,Berkelland,2279
+37,Beuningen,4.9,5.6,1189,902,508,541,856,Bernheze,10473
+38,Beverwijk,5.3,6.2,1850,1566,952,800,1468,Best,2533
+39,Bladel,4.7,4.5,802,636,458,320,529,Beuningen,2397
+40,Blaricum,,,357,296,187,218,280,Beverwijk,2836
+41,Bloemendaal,3.8,4.1,642,591,440,459,487,Bladel,2210
+42,Bodegraven-Reeuwijk,4.3,4.8,1314,1134,721,735,940,Blaricum,961
+43,Boekel,4.3,4.6,346,283,228,247,312,Bloemendaal,1859
+44,Borger-Odoorn,5.6,7.0,957,1179,801,573,1118,Bodegraven-Reeuwijk,1715
+45,Borne,4.5,6.0,741,777,535,460,821,Boekel,3998
+46,Borsele,4.3,4.4,925,803,420,445,617,Borger-Odoorn,288
+47,Boxmeer,5.7,6.0,1234,1130,642,661,1057,Borne,1966
+48,Boxtel,4.9,5.4,1396,973,675,567,1070,Borsele,901
+49,Breda,4.9,5.7,8138,6721,3633,3040,5805,Boxmeer,3944
+50,Brielle,4.8,5.9,625,635,366,357,615,Boxtel,2527
+51,Bronckhorst,5.7,6.3,1404,1540,1105,809,1476,Breda,19395
+52,Brummen,5.7,6.1,998,974,511,435,860,Brielle,1152
+53,Brunssum,7.1,8.3,1568,1331,1083,693,1411,Bronckhorst,2272
+54,Bunnik,4.7,5.2,596,548,325,227,453,Brummen,1273
+55,Bunschoten,3.6,4.7,948,531,369,293,644,Brunssum,3186
+56,Buren,4.9,5.2,1169,945,603,420,1029,Bunnik,1242
+57,Capelle aan den IJssel,5.2,6.2,2910,2657,1583,1374,2655,Bunschoten,1954
+58,Castricum,4.3,4.8,1258,975,750,699,894,Buren,1558
+59,Coevorden,5.7,7.3,1592,1657,949,888,1584,Capelle aan den IJssel,9226
+60,Cranendonck,5.2,5.0,835,740,546,323,643,Castricum,2901
+61,Cuijk,5.6,6.1,1139,998,494,586,911,Coevorden,2293
+62,Culemborg,4.4,4.6,1301,1063,526,445,985,Cranendonck,6374
+63,Dalfsen,4.1,4.7,1038,922,704,564,958,Cuijk,2351
+64,Dantumadiel,6.0,6.3,1042,719,565,513,806,Culemborg,2195
+65,De Bilt,4.6,5.0,1937,1451,1035,725,1308,Dalfsen,2852
+66,De Fryske Marren,4.7,5.4,2113,2162,1250,1131,1715,Dantumadiel,249
+67,De Ronde Venen,4.1,4.6,1543,1433,888,685,1327,De Bilt,4963
+68,De Wolden,4.9,6.5,813,976,665,533,911,De Fryske Marren,2266
+69,Delft,4.6,4.9,4677,3388,1582,1779,3364,De Ronde Venen,3153
+70,Delfzijl,7.3,9.5,1139,1459,791,778,1535,De Wolden,1543
+71,Den Haag,4.7,6.5,23648,18561,8656,8365,21473,Delft,4739
+72,Den Helder,5.9,6.9,2425,2181,1464,1066,2414,Delfzijl,646
+73,Deurne,5.1,5.4,1241,1297,681,573,1112,Den Helder,1329
+74,Deventer,4.9,5.7,5109,3932,1771,2322,3559,Deurne,5730
+75,Diemen,3.9,5.8,922,732,521,441,971,Deventer,7840
+76,Dinkelland,4.5,5.6,773,954,616,461,870,Diemen,2769
+77,Doesburg,6.0,7.7,610,522,300,228,459,Dinkelland,2950
+78,Doetinchem,5.9,6.2,2810,2222,1573,1231,2114,Doesburg,1045
+79,Dongen,5.6,5.9,1197,1077,534,511,916,Doetinchem,3289
+80,Dordrecht,5.1,6.3,6531,4432,2592,2582,4935,Dongen,2741
+81,Drechterland,3.5,4.5,676,416,406,343,584,Dordrecht,10057
+82,Drimmelen,5.2,5.9,1172,979,646,500,943,Drechterland,1594
+83,Dronten,4.6,5.3,1740,1591,757,873,1331,Drimmelen,2494
+84,Druten,5.1,5.9,932,816,388,420,665,Dronten,3836
+85,Duiven,5.1,5.5,1134,992,478,586,817,Druten,3998
+86,Echt-Susteren,6.1,6.4,1475,1240,951,719,1179,Duiven,1596
+87,Edam-Volendam,4.3,4.9,1125,1270,816,877,1081,Echt-Susteren,3327
+88,Ede,4.4,5.4,5238,4034,1888,1954,3894,Edam-Volendam,2953
+89,Eemnes,,,355,279,131,209,294,Ede,7077
+90,Eersel,4.8,4.6,777,506,374,327,517,Eemnes,548
+91,Eijsden-Margraten,5.2,5.6,1075,839,765,431,839,Eersel,2382
+92,Eindhoven,4.7,5.3,10142,7202,3917,3680,7517,Eijsden-Margraten,5710
+93,Elburg,5.0,5.7,1105,894,560,506,899,Eindhoven,17067
+94,Emmen,6.1,8.1,5153,6036,3216,2734,5205,Elburg,4068
+95,Enkhuizen,4.1,5.6,852,524,464,336,608,Emmen,3390
+96,Enschede,5.0,6.5,6651,6195,3109,2624,6242,Enkhuizen,1244
+97,Epe,6.2,7.0,1415,1408,909,707,1287,Enschede,7214
+98,Ermelo,5.5,5.7,1386,984,603,502,910,Epe,4558
+99,Etten-Leur,5.6,6.0,2078,1759,891,800,1490,Ermelo,4050
+100,Geertruidenberg,5.8,6.2,1071,814,514,461,830,Etten-Leur,6307
+101,Geldrop-Mierlo,5.5,6.1,1793,1337,1121,772,1427,Geertruidenberg,1520
+102,Gemert-Bakel,4.3,5.5,1073,1017,626,526,938,Geldrop-Mierlo,3746
+103,Gennep,5.4,6.2,699,669,364,382,725,Gemert-Bakel,7174
+104,Gilze en Rijen,5.7,6.8,1159,1044,628,563,1041,Gennep,2063
+105,Goeree-Overflakkee,5.7,6.9,2699,2372,1111,979,1988,Gilze en Rijen,2803
+106,Goes,6.2,5.7,1875,1743,886,869,1204,Goeree-Overflakkee,10108
+107,Goirle,5.9,5.9,1060,1029,599,517,823,Goes,2631
+108,Gooise Meren,3.9,4.1,2188,1766,1063,1192,1428,Goirle,2886
+109,Gorinchem,5.4,6.1,1997,1373,923,762,1418,Gooise Meren,3786
+110,Gouda,4.8,5.8,3135,2824,1503,1591,2603,Gorinchem,5308
+111,Grave,5.3,5.5,554,479,258,282,421,Gouda,8337
+112,Groningen,3.7,4.8,9957,6884,3282,3641,6388,Grave,2415
+113,Gulpen-Wittem,5.8,6.0,639,520,524,291,540,Groningen,6818
+114,Haaksbergen,4.8,5.7,793,1000,504,456,759,Gulpen-Wittem,2499
+115,Haaren,4.4,4.5,474,479,352,279,393,Haaksbergen,1967
+116,Haarlem,4.0,5.0,6860,4662,2744,2796,4733,Haaren,1808
+117,Haarlemmermeer,4.2,5.2,5538,4493,2325,2965,4797,Haarlem,10076
+118,Halderberge,6.7,7.1,1345,1351,832,577,1287,Haarlemmermeer,8305
+119,Hardenberg,4.7,5.9,2718,2240,1354,1252,2187,Halderberge,2087
+120,Harderwijk,5.3,5.8,2456,1955,926,881,1640,Hardenberg,6157
+121,Hardinxveld-Giessendam,4.9,5.6,878,697,425,312,609,Harderwijk,4402
+122,Harlingen,5.5,6.3,845,602,347,433,619,Hardinxveld-Giessendam,1268
+123,Hattem,4.9,5.5,587,423,318,265,408,Harlingen,614
+124,Heemskerk,4.9,6.4,1540,1336,922,795,1547,Hattem,1589
+125,Heemstede,4.7,4.6,931,774,581,532,672,Heemskerk,3108
+126,Heerde,5.6,6.3,853,711,625,498,750,Heemstede,3646
+127,Heerenveen,5.1,5.7,2174,1840,1151,1259,1855,Heerde,6344
+128,Heerhugowaard,4.5,5.1,2334,1605,852,1010,1771,Heerenveen,3103
+129,Heerlen,7.5,7.8,5352,4128,3191,2046,4132,Heerhugowaard,4930
+130,Heeze-Leende,4.6,4.8,554,441,401,335,417,Heerlen,12046
+131,Heiloo,4.3,4.5,871,600,438,413,569,Heeze-Leende,2207
+132,Hellendoorn,5.1,5.9,1502,1309,915,793,1290,Heiloo,1774
+133,Hellevoetsluis,5.3,6.4,1827,1703,831,875,1575,Hellendoorn,2939
+134,Helmond,5.0,6.0,4333,3571,1809,1376,3320,Hellevoetsluis,2332
+135,Hendrik-Ido-Ambacht,4.2,5.4,1362,1058,552,618,974,Helmond,12118
+136,Hengelo,4.5,6.3,3177,2969,1816,1562,2974,Hendrik-Ido-Ambacht,1290
+137,Het Hogeland,5.5,6.8,2349,2070,1192,1063,2124,Hengelo,4575
+138,Heumen,4.9,5.0,697,593,404,409,513,Het Hogeland,1078
+139,Heusden,5.0,5.4,1913,1550,993,922,1425,Heumen,2521
+140,Hillegom,4.6,5.2,960,723,429,436,666,Heusden,4896
+141,Hilvarenbeek,5.1,5.1,572,567,340,358,438,Hillegom,1126
+142,Hilversum,4.3,5.0,3924,2863,1507,1928,2743,Hilvarenbeek,1498
+143,Hoeksche Waard,5.2,5.9,3992,3400,1952,1989,2891,Hilversum,5528
+144,Hof van Twente,5.4,6.5,1283,1403,951,768,1326,Hoeksche Waard,9589
+145,Hollands Kroon,4.0,5.1,1593,1367,1023,764,1601,Hof van Twente,2353
+146,Hoogeveen,6.1,6.9,2530,2879,1460,1423,2381,Hollands Kroon,2375
+147,Hoorn,4.2,5.5,3402,2114,1421,1264,2518,Hoogeveen,2871
+148,Horst aan de Maas,5.2,5.4,1573,1433,1045,726,1354,Hoorn,3118
+149,Houten,3.7,4.2,2250,1439,667,780,1300,Horst aan de Maas,4532
+150,Huizen,4.5,5.4,1777,1290,842,996,1389,Houten,4746
+151,Hulst,5.3,6.5,1151,828,813,486,763,Huizen,3649
+152,IJsselstein,4.8,5.6,1561,1374,654,565,1224,Hulst,1087
+153,Kaag en Braassem,4.4,4.7,1144,912,510,545,745,IJsselstein,4471
+154,Kampen,4.4,5.7,2520,1967,1150,867,1829,Kaag en Braassem,953
+155,Kapelle,4.3,4.8,522,428,233,235,348,Kampen,11736
+156,Katwijk,5.2,4.9,3034,2332,1371,1272,2328,Kapelle,793
+157,Kerkrade,7.4,8.6,2249,2173,1753,950,2371,Katwijk,5980
+158,Koggenland,3.4,4.1,678,477,435,326,593,Kerkrade,6193
+159,Krimpen aan den IJssel,4.9,6.0,1261,1056,733,589,1021,Koggenland,1286
+160,Krimpenerwaard,4.5,4.8,2268,1845,1232,1083,1664,Krimpen aan den IJssel,2395
+161,Laarbeek,5.3,5.9,863,926,461,391,790,Krimpenerwaard,5267
+162,Landerd,5.0,4.8,639,542,374,290,476,Laarbeek,4114
+163,Landgraaf,6.8,8.2,1935,1608,1371,905,1777,Landerd,5242
+164,Landsmeer,4.4,5.6,386,369,279,228,362,Landgraaf,4797
+165,Langedijk,3.7,4.6,1024,706,454,438,728,Landsmeer,917
+166,Lansingerland,3.2,3.6,2310,1841,718,986,1381,Langedijk,1766
+167,Laren,,,366,368,256,229,294,Lansingerland,6466
+168,Leeuwarden,5.1,5.5,6702,4314,2566,3179,4194,Laren,950
+169,Leiden,4.2,4.4,6398,3883,1914,1919,3537,Leeuwarden,2244
+170,Leiderdorp,4.9,4.6,1306,1002,612,538,896,Leiden,5076
+171,Leidschendam-Voorburg,4.9,6.1,3362,2606,1596,1412,2693,Leiderdorp,1061
+172,Lelystad,4.7,6.5,3260,3531,1499,1406,3195,Leidschendam-Voorburg,3528
+173,Leudal,4.9,6.0,1293,1350,1052,679,1220,Lelystad,5433
+174,Leusden,3.9,4.3,1195,910,503,492,850,Leudal,6690
+175,Lingewaard,5.1,5.6,2153,1722,935,1061,1506,Leusden,1672
+176,Lisse,4.6,5.7,890,794,435,434,747,Lingewaard,3722
+177,Lochem,4.9,5.6,1337,1268,844,725,1168,Lisse,829
+178,Loon op Zand,6.0,6.1,1182,971,645,500,832,Lochem,2830
+179,Lopik,4.1,4.2,576,445,263,230,381,Loon op Zand,2331
+180,Loppersum,6.7,7.2,532,457,275,245,414,Lopik,2073
+181,Losser,5.4,7.1,719,972,527,351,954,Loppersum,85
+182,Maasdriel,4.5,6.0,894,823,577,416,891,Losser,832
+183,Maasgouw,5.6,6.4,859,907,745,499,857,Maasdriel,1502
+184,Maassluis,5.1,5.7,1429,1153,725,552,1377,Maasgouw,3362
+185,Maastricht,6.1,6.1,6520,4668,3427,1779,4164,Maassluis,1979
+186,Medemblik,4.0,4.9,1799,1116,926,715,1446,Maastricht,25838
+187,Meerssen,6.1,6.1,924,813,597,356,697,Medemblik,2545
+188,Meierijstad,4.8,5.2,3411,2432,1987,1548,2736,Meerssen,3234
+189,Meppel,5.0,6.4,1680,1171,800,697,1262,Meierijstad,20952
+190,Middelburg,4.3,4.9,2248,1532,995,1044,1423,Meppel,1196
+191,Midden-Delfland,3.5,3.4,655,512,268,336,455,Middelburg,1941
+192,Midden-Drenthe,5.3,6.7,1370,1323,887,753,1328,Midden-Delfland,617
+193,Midden-Groningen,6.1,8.5,2714,3143,1625,1424,3248,Midden-Drenthe,784
+194,Mill en Sint Hubert,5.7,5.9,492,467,213,293,385,Midden-Groningen,1120
+195,Moerdijk,5.4,6.1,1729,1544,967,736,1384,Mill en Sint Hubert,1263
+196,Molenlanden,4.2,4.5,1820,1462,925,805,1260,Moerdijk,2429
+197,Montferland,5.7,6.5,1416,1451,1047,742,1479,Molenlanden,3953
+198,Montfoort,3.8,4.2,474,483,225,186,392,Montferland,2827
+199,Mook en Middelaar,4.4,5.3,270,284,137,202,226,Montfoort,1420
+200,Neder-Betuwe,6.1,5.6,1326,971,600,437,918,Mook en Middelaar,1259
+201,Nederweert,5.0,4.4,609,560,464,310,499,Neder-Betuwe,3984
+202,Nieuwegein,5.1,6.5,3211,2437,1267,1122,2587,Nederweert,2031
+203,Nieuwkoop,4.3,4.4,924,919,524,563,820,Nieuwegein,4015
+204,Nijkerk,4.4,5.6,1879,1449,819,648,1385,Nieuwkoop,1733
+205,Nijmegen,4.4,4.9,8922,6292,2878,2848,5366,Nijkerk,2081
+206,Nissewaard,5.9,6.8,3838,3756,2030,2116,3765,Nijmegen,21163
+207,Noardeast-Fryslân,5.5,5.4,2351,1538,1159,1231,1552,Nissewaard,5764
+208,Noord-Beveland,5.3,5.7,325,273,187,176,268,Noardeast-Fryslân,929
+209,Noordenveld,4.9,7.0,1184,1260,814,697,1283,Noord-Beveland,251
+210,Noordoostpolder,4.2,5.0,1840,1542,1137,941,1482,Noordenveld,678
+211,Noordwijk,4.5,4.6,1836,1318,848,662,1226,Noordoostpolder,2438
+212,Nuenen c.a.,4.7,4.7,930,721,458,434,686,Noordwijk,1605
+213,Nunspeet,5.0,5.6,1381,978,690,481,951,"Nuenen, Gerwen en Nederwetten",1805
+214,Oegstgeest,4.0,3.9,1073,703,410,435,561,Nunspeet,7001
+215,Oirschot,4.7,4.7,769,641,374,281,543,Oegstgeest,1513
+216,Oisterwijk,5.8,5.1,1176,1080,655,596,827,Oirschot,2080
+217,Oldambt,7.4,8.3,1892,2314,1331,971,2095,Oisterwijk,2477
+218,Oldebroek,4.8,6.1,1139,782,669,428,977,Oldambt,415
+219,Oldenzaal,5.1,6.6,1172,1251,729,577,1181,Oldebroek,5107
+220,Olst-Wijhe,5.1,5.6,782,746,376,477,650,Oldenzaal,1957
+221,Ommen,4.2,5.8,706,580,383,327,643,Olst-Wijhe,1702
+222,Oost Gelre,5.1,5.3,1189,1088,631,663,947,Ommen,1859
+223,Oosterhout,5.7,6.3,2911,2366,1248,1053,2087,Oost Gelre,1886
+224,Ooststellingwerf,5.2,6.3,1143,963,670,562,1059,Oosterhout,4063
+225,Oostzaan,3.8,5.5,345,261,232,195,290,Ooststellingwerf,221
+226,Opmeer,3.8,4.9,358,279,231,206,350,Oostzaan,1015
+227,Opsterland,4.4,5.3,1290,1046,622,638,1070,Opmeer,291
+228,Oss,5.5,5.9,4337,3785,2290,1732,3303,Opsterland,904
+229,Oude IJsselstreek,5.8,6.8,1635,1537,1309,827,1752,Oss,17244
+230,Ouder-Amstel,4.0,4.6,421,385,285,267,387,Oude IJsselstreek,2435
+231,Oudewater,4.1,4.3,364,358,229,175,267,Ouder-Amstel,1196
+232,Overbetuwe,4.7,5.5,2175,1718,851,1010,1449,Oudewater,2029
+233,Papendrecht,5.0,5.8,1595,1251,736,787,1265,Overbetuwe,4896
+234,Peel en Maas,5.2,5.3,1561,1550,1022,799,1381,Papendrecht,1995
+235,Pekela,7.3,9.9,569,756,480,301,779,Peel en Maas,10992
+236,Pijnacker-Nootdorp,3.5,3.6,2159,1452,630,1034,1359,Pekela,219
+237,Purmerend,5.2,7.4,3372,3347,1967,1886,3294,Pijnacker-Nootdorp,3956
+238,Putten,5.7,5.5,1209,969,590,560,842,Purmerend,7595
+239,Raalte,4.6,4.9,1540,1325,806,928,1102,Putten,830
+240,Reimerswaal,5.1,5.0,1122,830,516,445,677,Raalte,4683
+241,Renkum,5.2,5.7,1566,1301,793,698,1051,Reimerswaal,1106
+242,Renswoude,3.5,4.1,173,171,76,65,127,Renkum,2453
+243,Reusel-De Mierden,5.2,4.5,527,470,270,254,377,Renswoude,643
+244,Rheden,5.7,6.3,2135,1887,1114,933,1564,Reusel-De Mierden,833
+245,Rhenen,4.6,5.8,834,696,401,331,703,Rheden,3321
+246,Ridderkerk,5.7,7.0,2116,1710,1147,1272,1969,Rhenen,986
+247,Rijssen-Holten,4.8,5.2,1580,1456,933,878,1278,Ridderkerk,4081
+248,Rijswijk,5.6,6.6,2338,1953,1119,1061,1995,Rijssen-Holten,5133
+249,Roerdalen,5.5,6.6,824,788,659,442,802,Rijswijk,3676
+250,Roermond,5.7,6.3,2870,2526,1666,1091,2366,Roerdalen,1846
+251,Roosendaal,5.5,6.4,3591,3007,2037,1527,3057,Roermond,4895
+252,Rotterdam,4.8,6.7,25723,23105,12101,11037,27544,Roosendaal,7202
+253,Rozendaal,3.3,4.2,50,40,24,27,26,Rotterdam,72880
+254,Rucphen,7.9,6.8,1214,1327,710,420,944,Rozendaal,137
+255,Schagen,4.3,5.0,1537,1334,926,842,1425,Rucphen,2116
+256,Scherpenzeel,4.5,4.8,501,317,211,162,290,Schagen,2787
+257,Schiedam,5.0,5.5,3257,2822,1618,1285,3039,Scherpenzeel,846
+258,Schiermonnikoog,4.6,5.7,38,27,35,14,45,Schiedam,6409
+259,Schouwen-Duiveland,5.9,6.3,1457,1421,853,998,1288,Schiermonnikoog,0
+260,'s-Hertogenbosch,4.9,5.2,7496,5432,3280,2831,5117,Schouwen-Duiveland,1556
+261,Simpelveld,6.6,6.7,527,439,388,263,411,Simpelveld,1601
+262,Sint Anthonis,4.9,4.9,437,387,217,249,331,Sint Anthonis,2531
+263,Sint-Michielsgestel,5.0,4.9,1253,1038,574,552,866,Sint-Michielsgestel,3640
+264,Sittard-Geleen,6.4,7.1,5327,3790,2662,1884,4099,Sittard-Geleen,14166
+265,Sliedrecht,5.4,6.2,1501,871,710,472,975,Sliedrecht,1751
+266,Sluis,5.9,6.7,1005,963,860,560,815,Sluis,702
+267,Smallingerland,5.0,6.3,3210,1952,1086,1229,2173,Smallingerland,1806
+268,Soest,4.5,5.1,1964,1514,867,774,1483,Soest,3201
+269,Someren,4.6,4.8,606,574,467,326,529,Someren,3556
+270,Son en Breugel,4.6,4.7,612,498,318,264,493,Son en Breugel,2721
+271,Stadskanaal,7.6,9.3,1563,1849,1336,755,1868,Stadskanaal,195
+272,Staphorst,3.2,5.1,427,360,339,296,564,Staphorst,2093
+273,Stede Broec,4.3,5.3,862,590,499,386,711,Stede Broec,1928
+274,Steenbergen,5.8,6.2,986,1048,691,526,864,Steenbergen,2730
+275,Steenwijkerland,5.3,6.9,1878,1678,1175,1093,1784,Steenwijkerland,2992
+276,Stein,6.2,6.4,1325,1101,729,508,988,Stein,4074
+277,Stichtse Vecht,4.4,5.5,2578,2245,1266,1013,2178,Stichtse Vecht,3797
+278,Súdwest-Fryslân,4.7,5.2,3826,3526,2233,2103,2980,Súdwest-Fryslân,3057
+279,Terneuzen,6.0,7.6,2752,2139,1721,1101,1953,Terneuzen,3838
+280,Terschelling,3.7,4.1,144,176,82,125,158,Terschelling,72
+281,Texel,4.9,5.4,498,492,321,248,437,Texel,442
+282,Teylingen,3.9,4.4,1570,1259,623,699,954,Teylingen,1792
+283,Tholen,5.5,6.0,1385,966,775,408,924,Tholen,5117
+284,Tiel,5.3,5.2,2092,1881,851,674,1671,Tiel,3737
+285,Tilburg,,,9919,8620,4648,3894,7840,Tilburg,27729
+286,Tubbergen,4.5,5.0,650,692,524,365,700,Tubbergen,2965
+287,Twenterand,5.7,7.0,1511,1430,972,732,1470,Twenterand,2038
+288,Tynaarlo,4.6,6.1,1162,1179,795,693,1141,Tynaarlo,1570
+289,Tytsjerksteradiel,4.8,5.7,1508,994,756,870,1075,Tytsjerksteradiel,619
+290,Uden,4.9,5.4,1739,1377,1063,749,1365,Uden,11014
+291,Uitgeest,3.1,3.9,416,291,231,231,290,Uitgeest,864
+292,Uithoorn,4.4,4.9,1099,952,586,497,948,Uithoorn,1798
+293,Urk,2.7,4.3,489,421,306,380,534,Urk,2536
+294,Utrecht,3.6,4.6,15847,10411,4581,4075,9957,Utrecht,32764
+295,Utrechtse Heuvelrug,4.8,5.5,2379,1745,1185,859,1631,Utrechtse Heuvelrug,3647
+296,Vaals,7.5,7.9,395,382,313,207,369,Vaals,1086
+297,Valkenburg aan de Geul,6.1,6.8,799,586,576,337,639,Valkenburg aan de Geul,2741
+298,Valkenswaard,5.4,5.8,1334,1103,797,522,1083,Valkenswaard,5685
+299,Veendam,6.4,8.8,1322,1470,844,639,1440,Veendam,321
+300,Veenendaal,5.2,5.9,3301,2468,1204,1301,2507,Veenendaal,5194
+301,Veere,4.1,4.3,819,620,513,522,606,Veere,1025
+302,Veldhoven,4.9,4.8,1873,1404,863,849,1385,Veldhoven,4379
+303,Velsen,4.6,5.9,2764,2234,1501,1344,2415,Velsen,9333
+304,Venlo,6.0,6.9,4346,3987,2834,1641,4171,Venlo,10979
+305,Venray,5.4,5.7,1909,1459,945,754,1380,Venray,3851
+306,Vijfheerenlanden,5.4,6.0,2758,2029,1346,1175,2130,Vijfheerenlanden,8120
+307,Vlaardingen,5.2,5.2,3123,2648,1828,1351,2776,Vlaardingen,8033
+308,Vlieland,4.6,6.0,38,36,21,28,40,Vlieland,0
+309,Vlissingen,5.3,6.0,2008,1574,1011,1018,1606,Vlissingen,1986
+310,Voerendaal,6.2,6.7,524,437,403,275,504,Voerendaal,1585
+311,Voorschoten,4.4,4.2,1250,916,544,488,692,Voorschoten,1583
+312,Voorst,4.7,5.6,911,1009,522,628,844,Voorst,1993
+313,Vught,4.5,4.6,1089,794,519,477,747,Vught,3889
+314,Waadhoeke,5.5,5.7,2345,1556,1202,1276,1699,Waadhoeke,3180
+315,Waalre,4.3,5.0,636,479,353,261,467,Waalre,1095
+316,Waalwijk,5.8,5.7,2356,1855,1133,1027,1728,Waalwijk,5511
+317,Waddinxveen,4.5,5.3,1054,1085,541,658,849,Waddinxveen,1956
+318,Wageningen,3.9,4.4,1556,1123,577,532,990,Wageningen,1640
+319,Wassenaar,4.4,5.2,1033,839,576,453,666,Wassenaar,1687
+320,Waterland,4.2,5.7,644,626,421,389,559,Waterland,1218
+321,Weert,5.5,5.4,2262,1835,1450,853,1711,Weert,4774
+322,Weesp,4.4,5.5,850,619,374,403,677,Weesp,2128
+323,West Betuwe,4.8,4.9,2135,1603,1097,854,1757,West Betuwe,6092
+324,West Maas en Waal,5.0,4.5,815,638,468,375,650,West Maas en Waal,2882
+325,Westerkwartier,4.8,6.3,2654,2213,1348,1268,2285,Westerkwartier,2268
+326,Westerveld,5.0,6.3,732,754,509,553,737,Westerveld,1186
+327,Westervoort,5.0,5.9,796,621,282,293,497,Westervoort,1162
+328,Westerwolde,7.0,9.3,955,1367,912,594,1333,Westerwolde,247
+329,Westland,4.4,4.2,4436,3330,1824,1909,3182,Westland,8771
+330,Weststellingwerf,5.3,6.5,1012,1121,687,738,1025,Weststellingwerf,911
+331,Westvoorne,4.5,5.7,610,455,373,310,477,Westvoorne,1034
+332,Wierden,4.7,5.8,748,859,681,467,858,Wierden,1638
+333,Wijchen,5.2,5.5,1855,1751,877,955,1370,Wijchen,4984
+334,Wijdemeren,4.7,5.4,810,834,494,538,740,Wijdemeren,940
+335,Wijk bij Duurstede,4.6,5.3,1219,833,417,399,813,Wijk bij Duurstede,1175
+336,Winterswijk,5.7,6.3,1284,1106,730,796,1076,Winterswijk,1264
+337,Woensdrecht,5.9,6.6,897,826,697,350,771,Woensdrecht,1982
+338,Woerden,4.6,5.0,2304,1929,964,952,1568,Woerden,5504
+339,Wormerland,4.6,5.7,596,460,324,374,528,Wormerland,1563
+340,Woudenberg,3.8,4.2,521,384,242,201,338,Woudenberg,1089
+341,Zaanstad,4.6,6.2,6343,5186,3268,3253,5607,Zaanstad,12514
+342,Zaltbommel,4.7,5.5,1425,978,674,537,904,Zaltbommel,2805
+343,Zandvoort,5.2,6.4,637,622,408,355,566,Zandvoort,1263
+344,Zeewolde,3.4,4.1,804,705,290,393,573,Zeewolde,1338
+345,Zeist,4.6,5.3,3163,2303,1477,1019,2068,Zeist,5412
+346,Zevenaar,5.5,6.3,1961,1800,1015,960,1677,Zevenaar,3251
+347,Zoetermeer,5.0,6.8,6109,5254,2368,2259,5095,Zoetermeer,6054
+348,Zoeterwoude,4.4,3.9,380,249,175,202,209,Zoeterwoude,347
+349,Zuidplas,3.9,4.8,1631,1364,757,900,1177,Zuidplas,4187
+350,Zundert,5.8,6.0,910,929,551,373,770,Zundert,2593
+351,Zutphen,5.3,5.3,2620,2186,950,1002,1606,Zutphen,2792
+352,Zwartewaterland,4.1,5.3,862,761,485,468,726,Zwartewaterland,5303
+353,Zwijndrecht,5.3,7.0,2242,1774,1158,936,1992,Zwijndrecht,4308
+354,Zwolle,4.0,4.9,6388,4142,2355,2346,3808,Zwolle,12667
