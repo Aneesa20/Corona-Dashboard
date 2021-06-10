@@ -7,9 +7,8 @@ This is a demo of Dash interactive Python framework developed by [Plotly](https/
 
 
 
-## Screenshots
-
-
+## We performed decison tree analysis as well to understand the impact of the features on the number of cases:
+![image](https://user-images.githubusercontent.com/61543022/121549009-c5644300-ca0d-11eb-9b29-8c9ddf693c24.png)
 
 
 
